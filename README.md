@@ -1,5 +1,4 @@
-# Astro Starter Kit: Basics
-
+# PORTAFOLIO WEB MINIMALISTA 
 Este portafolio web de diseño muy simple , se hizo con el objetivo de poder llegar a imprimir en PDF de la manera mas adecuada , asi mismo brinda informacion.
 elaborado con ASTRO y utilizando NinjaNinja Keys
 
