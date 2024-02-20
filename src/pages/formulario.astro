@@ -1,11 +1,7 @@
 ---
 import Layout from '@/layouts/Layout.astro';
-import Uno from '@/components/sections/uno.astro';
-import Dos from '@/components/sections/dos.astro';
-import Tres from '@/components/sections/tres.astro';
-import Cuatro from '@/components/sections/cuatro.astro';
-import Cinco from '@/components/sections/cinco.astro';
-import Seis from '@/components/sections/seis.astro';
+
+import Formulario from '@/components/sections/formulario.astro';
 import {basics} from '@cv';
 const {name, label} = basics;
 import KeyboardManager from '@/components/KeyboardManager.astro';
@@ -14,13 +10,10 @@ import KeyboardManager from '@/components/KeyboardManager.astro';
 <Layout title={`Portafolio de ${name} - ${label}`}>
 	<main>
 		<!-- En index.astro -->
+        <a href="/">pagina real</a>
 
-		<Uno />
-		<Dos />
-		<Tres />
-		<Cuatro />
-		<Cinco />
-		<Seis />
+        <Formulario />
+
 	</main>
 
 	<KeyboardManager />
