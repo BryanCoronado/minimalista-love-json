@@ -1,18 +1,21 @@
 # Astro Starter Kit: Basics
 
+Este portafolio web de diseño muy simple , se hizo con el objetivo de poder llegar a imprimir en PDF de la manera mas adecuada , asi mismo brinda informacion.
+elaborado con ASTRO y utilizando NinjaNinja Keys
+
+https://ninja-keys-demo.vercel.app/
+
+![just-the-basics](https://i.ibb.co/gw3SN4J/Captura-de-pantalla-103.png)
+![just-the-basics](https://i.ibb.co/qJpv0c3/Captura-de-pantalla-104.png)
+
+Demo : https://portafolio-minimalista.netlify.app/
+
+## 🚀 Estructura del proyecto
+
 ```sh
 npm create astro@latest -- --template basics
 ```
 
-#Portafolio web Minimalista
-
-Este portafolio web de diseño muy simple , se hixo con el objetivo de poder llegar a imprimir en PDF de la manera mas adecuada , asi mismo brinda informacion.
-
-
-
-![just-the-basics](https://i.ibb.co/gw3SN4J/Captura-de-pantalla-103.png)
-
-## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 
