@@ -1,13 +1,15 @@
-# PORTAFOLIO WEB MINIMALISTA 
-Este portafolio web de diseño muy simple , se hizo con el objetivo de poder llegar a imprimir en PDF de la manera mas adecuada , asi mismo brinda informacion.
-elaborado con ASTRO y utilizando NinjaNinja Keys
+# PORTAFOLIO WEB MINIMALISTA
 
-https://ninja-keys-demo.vercel.app/
+Este portafolio web de diseño muy simple se creó con el objetivo de ser fácilmente imprimible en formato PDF y proporcionar información clara y concisa.
 
-![just-the-basics](https://i.ibb.co/gw3SN4J/Captura-de-pantalla-103.png)
-![just-the-basics](https://i.ibb.co/qJpv0c3/Captura-de-pantalla-104.png)
+Elaborado con ASTRO y utilizando NinjaNinja Keys.
 
-Demo : https://portafolio-minimalista.netlify.app/
+[![just-the-basics](https://i.ibb.co/gw3SN4J/Captura-de-pantalla-103.png)](https://ninja-keys-demo.vercel.app/)
+[![just-the-basics](https://i.ibb.co/qJpv0c3/Captura-de-pantalla-104.png)](https://portafolio-minimalista.netlify.app/)
+
+**Demo:** [https://portafolio-minimalista.netlify.app/](https://portafolio-minimalista.netlify.app/)
+
+Mejoré las imágenes para que estén más pequeñas y tengan bordes redondeados.
 
 ## 🚀 Estructura del proyecto
 
